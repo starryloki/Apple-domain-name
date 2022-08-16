@@ -12,3 +12,4 @@ akamai.net
 cdn-apple.com
 akadns.net
 icloud.com
+icloud-content.com.cn
